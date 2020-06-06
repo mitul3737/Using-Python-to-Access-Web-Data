@@ -1,3 +1,4 @@
+#Exploring the HyperText Transport Protocol by Mitul
 import socket
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
